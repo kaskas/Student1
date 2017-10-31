@@ -7,5 +7,5 @@ if (x === 0) {
 
 /*eslint no-console: 2*/
 
-console.log("Hello world!");              /*error Unexpected console statement.*/
+Console.log("Hello world!");              /*error Unexpected console statement.*/
 console.error("Something bad happened."); /*error Unexpected console statement.*/
